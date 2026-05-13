@@ -61,6 +61,7 @@
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) ![GitHub stars](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=social) - Comprehensive skill library including autoresearch orchestration with two-loop architecture (inner optimization + outer synthesis).
 - [WecoAI/aideml](https://github.com/WecoAI/aideml) ![GitHub stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social) - **AIDE**: Tree-search ML engineering agent that autonomously improves model performance via iterative code generation and evaluation.
 - [weco.ai](https://weco.ai) - **Weco**: Cloud platform for AIDE with observability, experiment tracking, and managed runs — brings the autoresearch loop into production.
+- [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP agent memory server enabling autonomous agents to persist, retrieve, and share knowledge across runs. Decay-weighted recall, HNSW vector search, cross-agent knowledge sharing.
 
 ## 🔬 Research-agent systems
 
