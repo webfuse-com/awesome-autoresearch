@@ -80,6 +80,7 @@
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Three-phase research pipeline: Literature Review → Experimentation → Report Writing, with specialized agents for each phase.
 - [happyhappy-jun/writing-driven-autoresearch](https://github.com/happyhappy-jun/writing-driven-autoresearch) - Autoresearch-style harness that keeps a submittable paper from the first minute and drives every experiment from the claims in that draft, looping modify → measure → verify → revise. 1st place at the [Ralphthon@ICML 2026](https://luma.com/hjuo7auc) autonomous-research hackathon. ![GitHub stars](https://img.shields.io/github/stars/happyhappy-jun/writing-driven-autoresearch?style=social)
 - [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) - End-to-end research orchestrator built on one cornerstone principle, Prompt Economy (reusable loops, not one-off prompts), plus five supporting rules; runs scientist/coder/auditor loops across 10+ disciplines, same reusable-loop lineage as autoresearch but scaled to full research programs. ![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social)
+- [0xmariowu/Autosearch](https://github.com/0xmariowu/Autosearch) - Self-evolving deep-research agent that searches dozens of channels, evaluates results, synthesizes cited reports, and carries search-strategy lessons across sessions. ![GitHub stars](https://img.shields.io/github/stars/0xmariowu/Autosearch?style=social)
 
 
 ## 💻 Platform ports and hardware forks
