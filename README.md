@@ -149,6 +149,7 @@ Curated lists and paper collections for AI agents, autonomous systems, and autom
 - [dspy.ai/GEPA](https://dspy.ai/api/optimizers/GEPA/overview/) - DSPy integration of GEPA reflective prompt optimizer for compound AI systems.
 - [OpenAI Cookbook: Self-Evolving Agents](https://developers.openai.com/cookbook/examples/partners/self_evolving_agents/autonomous_agent_retraining) - Cookbook for autonomous agent retraining using GEPA-style reflective evolution.
 - [WecoAI/awesome-autoresearch](https://github.com/WecoAI/awesome-autoresearch) - Curated list of AutoResearch use cases with verifiable traces and progress charts, organized by domain (LLM training, GPU kernels, voice agents, trading, etc.). ![GitHub stars](https://img.shields.io/github/stars/WecoAI/awesome-autoresearch?style=social)
+- [ianwieds/awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) - Curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research. ![GitHub stars](https://img.shields.io/github/stars/ianwieds/awesome-ai-agents?style=social)
 
 ## 📄 License
 
