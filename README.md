@@ -51,6 +51,7 @@
 - [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) - Comprehensive skill library including autoresearch orchestration with two-loop architecture (inner optimization + outer synthesis). ![GitHub stars](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=social)
 - [WecoAI/aideml](https://github.com/WecoAI/aideml) - **AIDE**: Tree-search ML engineering agent that autonomously improves model performance via iterative code generation and evaluation. ![GitHub stars](https://img.shields.io/github/stars/WecoAI/aideml?style=social)
 - [weco.ai](https://weco.ai) - **Weco**: Cloud platform for AIDE with observability, experiment tracking, and managed runs — brings the autoresearch loop into production.
+- [forger-labs-hq/researchforge](https://github.com/forger-labs-hq/researchforge) - Autoresearch loop for real repositories and live Kaggle competitions: frozen baseline, isolated git worktrees, screening then full benchmark, repeated validation of finalists, and every rejected idea kept on record; runs from Claude Code, Cursor, an API key or a local Ollama model. ![GitHub stars](https://img.shields.io/github/stars/forger-labs-hq/researchforge?style=social)
 
 ## 🔬 Research-agent systems
 
