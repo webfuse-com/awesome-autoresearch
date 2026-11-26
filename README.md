@@ -133,6 +133,7 @@
 - [Kingy AI Technical Breakdown](https://kingy.ai/ai/autoresearch-karpathys-minimal-acid-loop-for-autonomous-llm-experimentation/) - Detailed technical walkthrough of the autoresearch loop architecture, mutation operators, and fitness function design.
 - [Fortune Feature](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) - Business and industry context on why autoresearch matters for the future of autonomous AI agents.
 - [What's Missing in Autonomous Research?](https://haizhaoyang.github.io/research/autoresearch-survey.html) - Codes 56 autonomous research systems along seven axes and argues the real gap isn't generating research artifacts (most systems can) but catching weak ones before they ship.
+- [The AutoResearch Moment: From Experimenter to Research Director](https://doi.org/10.20944/preprints202603.1329.v1) - Position paper on what Karpathy's autoresearch changes for scientific accountability: the human role shifts from running experiments to directing research, and the unit to audit shifts from a successful run to an admissible claim.
 
 ## 📚 Related resources
 
